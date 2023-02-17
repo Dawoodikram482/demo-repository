@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IT Inholland Year 1\\Programming redo\\assignment3\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\Assignment1\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "C:\\IT Inholland Year 1\\Programming redo\\assignment3\\Assignment1\\Assignment1.csproj",
+      "projectPath": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\Assignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\mmDIk\\.nuget\\packages\\",
-      "outputPath": "C:\\IT Inholland Year 1\\Programming redo\\assignment3\\Assignment1\\obj\\",
+      "outputPath": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmDIk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
