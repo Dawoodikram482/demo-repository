@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\Yahtzee game\\Yahtzee game.csproj",
-      "projectName": "Yahtzee game",
-      "projectPath": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\Yahtzee game\\Yahtzee game.csproj",
+      "projectUniqueName": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\mmDIk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\Yahtzee game\\obj\\",
+      "outputPath": "C:\\Users\\mmDIk\\OneDrive\\Documents\\GitHub\\demo-repository\\Programming redo\\assignment3\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmDIk\\AppData\\Roaming\\NuGet\\NuGet.Config",
