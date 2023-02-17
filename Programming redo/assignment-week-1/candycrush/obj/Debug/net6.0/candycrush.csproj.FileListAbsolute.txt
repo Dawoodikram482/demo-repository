@@ -1,0 +1,15 @@
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\bin\Debug\net6.0\candycrush.exe
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\bin\Debug\net6.0\candycrush.deps.json
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\bin\Debug\net6.0\candycrush.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\bin\Debug\net6.0\candycrush.dll
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\bin\Debug\net6.0\candycrush.pdb
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.dll
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\refint\candycrush.dll
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.pdb
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\candycrush.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\candycrush\obj\Debug\net6.0\ref\candycrush.dll

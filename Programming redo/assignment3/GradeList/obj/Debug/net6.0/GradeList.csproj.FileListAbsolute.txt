@@ -1,0 +1,15 @@
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\bin\Debug\net6.0\GradeList.exe
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\bin\Debug\net6.0\GradeList.deps.json
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\bin\Debug\net6.0\GradeList.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\bin\Debug\net6.0\GradeList.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\bin\Debug\net6.0\GradeList.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\refint\GradeList.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\GradeList.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\GradeList\obj\Debug\net6.0\ref\GradeList.dll

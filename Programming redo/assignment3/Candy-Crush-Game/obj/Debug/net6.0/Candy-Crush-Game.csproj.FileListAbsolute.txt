@@ -1,0 +1,15 @@
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\bin\Debug\net6.0\Candy-Crush-Game.exe
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\bin\Debug\net6.0\Candy-Crush-Game.deps.json
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\bin\Debug\net6.0\Candy-Crush-Game.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\bin\Debug\net6.0\Candy-Crush-Game.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\bin\Debug\net6.0\Candy-Crush-Game.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\refint\Candy-Crush-Game.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\Candy-Crush-Game.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Candy-Crush-Game\obj\Debug\net6.0\ref\Candy-Crush-Game.dll

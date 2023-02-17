@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "w2-a2": {
+      "commandName": "Project",
+      "commandLineArgs": "10 10"
+    }
+  }
+}

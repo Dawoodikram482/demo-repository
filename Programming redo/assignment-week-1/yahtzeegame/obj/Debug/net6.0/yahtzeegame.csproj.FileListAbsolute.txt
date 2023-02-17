@@ -1,0 +1,15 @@
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\bin\Debug\net6.0\yahtzeegame.exe
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\bin\Debug\net6.0\yahtzeegame.deps.json
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\bin\Debug\net6.0\yahtzeegame.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\bin\Debug\net6.0\yahtzeegame.dll
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\bin\Debug\net6.0\yahtzeegame.pdb
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.dll
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\refint\yahtzeegame.dll
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.pdb
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\yahtzeegame.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\assignment-week-1\yahtzeegame\obj\Debug\net6.0\ref\yahtzeegame.dll

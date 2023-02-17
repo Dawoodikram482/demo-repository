@@ -1,0 +1,15 @@
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\bin\Debug\net6.0\assignment3-week1.exe
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\bin\Debug\net6.0\assignment3-week1.deps.json
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\bin\Debug\net6.0\assignment3-week1.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\bin\Debug\net6.0\assignment3-week1.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\bin\Debug\net6.0\assignment3-week1.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\refint\assignment3-week1.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\assignment3-week1.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment3-week1\obj\Debug\net6.0\ref\assignment3-week1.dll

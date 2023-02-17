@@ -1,0 +1,15 @@
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\bin\Debug\net6.0\Yahtzee game.exe
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\bin\Debug\net6.0\Yahtzee game.deps.json
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\bin\Debug\net6.0\Yahtzee game.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\bin\Debug\net6.0\Yahtzee game.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\bin\Debug\net6.0\Yahtzee game.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\refint\Yahtzee game.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\Yahtzee game.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\Yahtzee game\obj\Debug\net6.0\ref\Yahtzee game.dll

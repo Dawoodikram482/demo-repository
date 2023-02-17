@@ -1,0 +1,17 @@
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\bin\Debug\net6.0-windows\assignment5.exe
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\bin\Debug\net6.0-windows\assignment5.deps.json
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\bin\Debug\net6.0-windows\assignment5.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\bin\Debug\net6.0-windows\assignment5.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\bin\Debug\net6.0-windows\assignment5.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.Form1.resources
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.csproj.GenerateResource.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\refint\assignment5.dll
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.pdb
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\assignment5.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\assignment3\assignment5\obj\Debug\net6.0-windows\ref\assignment5.dll

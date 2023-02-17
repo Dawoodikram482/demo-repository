@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "week2-assignment1": {
+      "commandName": "Project",
+      "commandLineArgs": "8 8"
+    }
+  }
+}

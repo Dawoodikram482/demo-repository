@@ -1,0 +1,15 @@
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\bin\Debug\net6.0\Practice_exam_term_2.exe
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\bin\Debug\net6.0\Practice_exam_term_2.deps.json
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\bin\Debug\net6.0\Practice_exam_term_2.runtimeconfig.json
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\bin\Debug\net6.0\Practice_exam_term_2.dll
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\bin\Debug\net6.0\Practice_exam_term_2.pdb
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.csproj.AssemblyReference.cache
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.AssemblyInfoInputs.cache
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.AssemblyInfo.cs
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.csproj.CoreCompileInputs.cache
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.dll
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\refint\Practice_exam_term_2.dll
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.pdb
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\Practice_exam_term_2.genruntimeconfig.cache
+C:\IT Inholland Year 1\Programming redo\Practice_exam_term_2\Practice_exam_term_2\obj\Debug\net6.0\ref\Practice_exam_term_2.dll
